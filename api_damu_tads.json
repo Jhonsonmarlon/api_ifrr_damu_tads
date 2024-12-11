@@ -1,0 +1,90 @@
+[
+  {
+    "id": "1",
+    "icon": "book",
+    "title": "Exercício 1",
+    "description": "Interação via Kahoot",
+    "screen": "ex1",
+    "code": "Código da Atividade 1"
+  },
+  {
+    "id": "2",
+    "icon": "bulb",
+    "title": "Exercício 2",
+    "description": "Mini-Seminário: GPS e WiFi (para localização)",
+    "screen": "ex2",
+    "code": "Código da Atividade 2"
+  },
+  {
+    "id": "3",
+    "icon": "brush",
+    "title": "Exercício 3",
+    "description": "Conceitos de Computação Móvel e Ubíqua",
+    "screen": "ex3",
+    "code": "Código da Atividade 3"
+  },
+  {
+    "id": "4",
+    "icon": "code",
+    "title": "Aula 13 - Expo",
+    "description": "Componente Text: Estilize os componentes textuais",
+    "screen": "a13",
+    "code": "Código da Atividade Aula 13"
+  },
+  {
+    "id": "5",
+    "icon": "code",
+    "title": "Aula 14 - Expo",
+    "description": "Component Image: exibir diferentes tipos de imagens",
+    "screen": "a14",
+    "code": "Código da Atividade Aula 14"
+  },
+  {
+    "id": "6",
+    "icon": "code",
+    "title": "Aula 15 - Expo",
+    "description": "Component Button: Funções em Botões",
+    "screen": "a15",
+    "code": "Código da Atividade Aula 15"
+  },
+  {
+    "id": "7",
+    "icon": "code",
+    "title": "Aula 16 - Expo",
+    "description": "Component Input: uso de UseState",
+    "screen": "a16",
+    "code": "Código da Atividade Aula 16"
+  },
+  {
+    "id": "8",
+    "icon": "code",
+    "title": "Aula 17 - Expo",
+    "description": "Introdução ao State (estado)",
+    "screen": "a17",
+    "code": "Código da Atividade Aula 17"
+  },
+  {
+    "id": "9",
+    "icon": "code",
+    "title": "Aula 18 - Expo",
+    "description": "StackNavigation: Navegação entre Telas",
+    "screen": "a18",
+    "code": "Código da Atividade Aula 18"
+  },
+  {
+    "id": "10",
+    "icon": "code",
+    "title": "Aula 21 - Expo",
+    "description": "Props: Propriedades entre Componentes",
+    "screen": "a21",
+    "code": "Código da Atividade Aula 21"
+  },
+  {
+    "id": "11",
+    "icon": "code",
+    "title": "Exercício 4 - App Lista - Expo",
+    "description": "Crie um app que permita adicionar itens em uma lista.",
+    "screen": "ex4",
+    "code": "Código da Atividade Exercício 4"
+  }
+]
